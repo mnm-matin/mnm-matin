@@ -8,4 +8,4 @@ I strongly believe in creating projects with the goal of getting people to use i
 
 Most repositories will be made public once I am no longer actively working on them.
 
-You can find more deatils on these projects on my website: [mnm-matin.github.io](https://mnm-matin.github.io/)
+You can find more details on these projects on my website: [mnm-matin.github.io](https://mnm-matin.github.io/)
