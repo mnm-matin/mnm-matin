@@ -3,10 +3,6 @@
 
 You can find more details on about me on my website: [mnm-matin.github.io](https://mnm-matin.github.io/)
 
-Update 3 Aug, 
-
-My website is currently down for maintainance.
-
 You can check some of my projects here:
 - [alignmentgraph.com](https://alignmentgraph.com)
 - [AISafetyGraph](https://github.com/ai-safety-graph/AISafetyGraph)
